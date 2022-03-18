@@ -1,2 +1,2 @@
-# google
-Solution for the google foobar
+# Google
+Solution for the google foobar challenges.
